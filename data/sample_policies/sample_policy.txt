@@ -1,0 +1,3 @@
+Our company maintains an information security policy that outlines how we protect sensitive data.
+Access to systems is restricted based on job roles and responsibilities.
+All employees are required to use strong passwords and change them every 90 days.

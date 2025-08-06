@@ -1,0 +1,38 @@
+[
+    {
+        "control_id": "A.5.1",
+        "title": "Policy for Information Security",
+        "description": "Management shall define and maintain an information security policy.",
+        "keywords": ["information security policy", "management defines", "maintain"]
+    },
+    {
+        "control_id": "A.6.1.2",
+        "title": "Segregation of Duties",
+        "description": "Duties and responsibilities shall be segregated to reduce opportunities for unauthorized or unintentional modification.",
+        "keywords": ["segregation of duties", "roles separated", "avoid conflicts"]
+    },
+    {
+        "control_id": "A.9.2.3",
+        "title": "Password Management System",
+        "description": "A password management system shall be interactive and ensure quality passwords.",
+        "keywords": ["password complexity", "strong passwords", "password policies"]
+    },
+    {
+        "control_id": "A.8.2.1",
+        "title": "Classification of Information",
+        "description": "Information should be classified in terms of legal requirements, value, criticality, and sensitivity.",
+        "keywords": ["data classification", "sensitivity", "confidentiality levels"]
+    },
+    {
+        "control_id": "A.13.1.1",
+        "title": "Use of Cryptographic Controls",
+        "description": "Cryptography shall be used to protect the confidentiality, integrity, and authenticity of information.",
+        "keywords": ["encryption", "cryptographic controls", "data protection"]
+    },
+    {
+        "control_id": "A.14.2.7",
+        "title": "Secure Development Environment",
+        "description": "Development, testing, and production environments shall be separated and protected.",
+        "keywords": ["secure development", "dev environment", "test environment"]
+    }
+]

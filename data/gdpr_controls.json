@@ -1,0 +1,26 @@
+[
+    {
+        "control_id": "GDPR-Article 5(1)(f)",
+        "title": "Integrity and Confidentiality",
+        "description": "Personal data shall be processed in a manner that ensures appropriate security.",
+        "keywords": ["personal data", "security", "integrity"]
+    },
+    {
+        "control_id": "GDPR-Article 32",
+        "title": "Security of Processing",
+        "description": "Appropriate technical and organizational measures shall be implemented to ensure a level of security appropriate to the risk.",
+        "keywords": ["technical measures", "organizational measures", "risk-based security"]
+    },
+    {
+        "control_id": "GDPR-Article 33",
+        "title": "Notification of a Personal Data Breach",
+        "description": "In the case of a personal data breach, the controller shall notify the supervisory authority without undue delay.",
+        "keywords": ["data breach", "notification", "supervisory authority"]
+    },
+    {
+        "control_id": "GDPR-Article 34",
+        "title": "Communication of a Personal Data Breach to the Data Subject",
+        "description": "Where feasible, the controller shall communicate the personal data breach to the data subject without undue delay.",
+        "keywords": ["data breach", "communication", "data subject"]
+    }
+]

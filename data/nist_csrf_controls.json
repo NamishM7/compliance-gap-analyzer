@@ -1,0 +1,26 @@
+[
+    {
+        "control_id": "ID.AM-1",
+        "title": "Asset Inventory",
+        "description": "The organization identifies and documents physical devices and systems within the organization.",
+        "keywords": ["asset inventory", "physical devices", "system documentation"]
+    },
+    {
+        "control_id": "PR.DS-5",
+        "title": "Data Protection Processes",
+        "description": "Protect data-at-rest using approved cryptographic mechanisms.",
+        "keywords": ["data encryption", "data at rest", "crypto mechanisms"]
+    },
+    {
+        "control_id": "AC-3",
+        "title": "Least Privilege",
+        "description": "Access rights are limited to the minimum necessary to perform job functions.",
+        "keywords": ["least privilege", "access control", "permissions"]
+    },
+    {
+        "control_id": "AU-12",
+        "title": "Security Audit Events",
+        "description": "Audit logs are collected and reviewed regularly.",
+        "keywords": ["audit logs", "security events", "log monitoring"]
+    }
+]
