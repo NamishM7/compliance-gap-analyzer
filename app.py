@@ -13,7 +13,7 @@ from fpdf import FPDF
 import pandas as pd
 
 # st.title("AI-Powered Compliance Gap Analyzer")
-# st.write("Welcome to your compliance gap analyzer app!")
+
 
 # ----------------------------
 # 2. Load Controls
@@ -176,6 +176,7 @@ def chatbot(question, results):
 def main():
     st.set_page_config(page_title="🛡️ AI Compliance Gap Analyzer", layout="wide")
     st.title("🛡️ AI-Powered Compliance Gap Analyzer")
+    st.write("Welcome to your compliance gap analyzer app!")
     st.markdown("Upload your organization's security policy and check alignment with selected frameworks.")
 
     # Sidebar: Framework Selection
