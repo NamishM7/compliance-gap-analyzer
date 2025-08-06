@@ -12,6 +12,9 @@ import re
 from fpdf import FPDF
 import pandas as pd
 
+st.title("AI-Powered Compliance Gap Analyzer")
+st.write("Welcome to your compliance gap analyzer app!")
+
 # ----------------------------
 # 2. Load Controls
 # ----------------------------
