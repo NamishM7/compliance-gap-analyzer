@@ -41,3 +41,56 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
+---
+
+## 📂 Project Structure
+```
+compliance-gap-analyzer/
+│
+├── app.py                      # Main Streamlit app
+├── requirements.txt            # Dependencies
+├── data/                       # JSON control definitions for each framework
+│   ├── iso27001_controls.json
+│   ├── nist_csrf_controls.json
+│   └── gdpr_controls.json
+├── docs/                       # (Optional) screenshots / additional docs
+│   ├── compliance_results.png
+│   └── chatbot.png
+└── README.md
+```
+---
+
+
+
+## 🔮 How It Works
+
+1. **Upload your policy document** (PDF, DOCX, or TXT).
+2. The app **extracts the text**.
+3. Each control requirement from the selected framework is **encoded into embeddings**.
+4. Your policy text is also encoded and compared using **cosine similarity**.
+5. The similarity score determines coverage status.
+6. Results are displayed with **color-coded highlights** and can be **exported**.
+
+---
+
+## 📜 Example Use Cases
+
+- **CISO teams** verifying compliance readiness.
+- **Security auditors** assessing policy coverage.
+- **Startups & SMBs** preparing for certification.
+- **Students & researchers** learning about NLP in compliance.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+MIT License — free to use and modify.
+
